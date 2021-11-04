@@ -1,1 +1,1 @@
-This is a basic recipe website which will display the use of basic HTML functionalities which include the boilerplate, the h1-h6, p, a, img, ordered and unordered lists, strong and em tags.
+This is the first assignment at The Odin Project which is a recipe website which will display the use of basic HTML functionalities which include the boilerplate, the h1-h6, p, a, img, ordered and unordered lists, strong and em tags.
