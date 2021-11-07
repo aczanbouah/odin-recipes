@@ -1,0 +1,65 @@
+body {
+    background-color: #bdfff6;
+}
+
+.text {
+    text-align: justify;
+    padding-left: 6px;
+    color: #e23c52;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.imgHeader {
+    height: auto;
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+.list,
+.listUnordered {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.listUnordered {
+    list-style-type: none;
+}
+
+li {
+    padding: 6px;
+}
+
+#paragraph {
+    color: black;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+#listHome {
+    text-align: center;
+}
