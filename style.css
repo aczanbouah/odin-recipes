@@ -12,20 +12,38 @@ body {
 
 .sub-header {
   font-size: 32px;
+  text-align: center;
+}
+
+.recipe-description {
+  padding: 16px 48px;
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+  padding: 0;
 }
 
 .list-item {
   list-style: none;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 img {
   width: 350px;
   height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .home-redirect {
   font-size: 20px;
   font-weight: 700;
+  display: block;
+  text-align: center;
+  margin-top: 32px;
 }
 
 .header,
